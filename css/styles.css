@@ -1,3 +1,8 @@
+body {
+  background-color: #f7e4bb;
+  font-weight: bold;
+}
+
 .title {
   text-align: center;
   color: #21de23;
@@ -8,7 +13,12 @@
   color: #149115;
 }
 
-body {
-  background-color: #f7e4bb;
-  font-weight: bold;
+#moodform-wrapper {
+  padding-top: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+#moodform.freebirdCustomFont {
+  font-size: 1.3em;
 }
